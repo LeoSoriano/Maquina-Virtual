@@ -83,6 +83,7 @@ Es un servicio para poder controlar muchas maquinas Virtuales.
 19.- Ahora le daremos "click" a una Maquina Virtual.
 
 20.- Le daremos en la flechita que tiene pegado conectar y luego en **RDP**.
+
 ![Conectar](Imagenes/RDP.PNG)
 
 21.- Esperamos tantito y descargamos ese archivo.
@@ -98,16 +99,27 @@ Es un servicio para poder controlar muchas maquinas Virtuales.
 
 
 24.-Ahora para conectar la otra maquina virtual debemos abrir el CMD y escribir **ping y el ping de la maquina virtual** que queremos conectar.
-![CMD](Imagenes\CMD.PNG)
+
+![CMD](Imagenes/CMD.PNG)
+
 26.- En caso de que no conecte por el CMD, deberemos abrir el **Windows Powershell**
-![Windows PowerShell](Imagenes\Shell.PNG)
+
+![Windows PowerShell](Imagenes/Shell.PNG)
+
 27.- Aca en el Windows PowerShell escribiremos, **New-NetFirewallRule -DisplayName "Allow ICMPv4-In" -Protocol ICMPv4**. 
-![Codigo](Imagenes\PowerShell.PNG)
+
+![Codigo](Imagenes/PowerShell.PNG)
+
 28.- Ahora veremos si podemos conectar la otra maquina virtual, escribiremos  **mstsc /v:y el ping de la maquina virtual**.
-![Code PING](Imagenes\code1.PNG)
+
+![Code PING](Imagenes/code1.PNG)
+
 29.- Automaticamente nos saldra un recuadro nuevamente pidiendo el usuario y la contraseña
+
 30.- Listo, tendremos ahora si conectada la otra maquina virtual.
+
 31.- Tendremos finalmente una Maquina Virtual dentro de otra Maquina Virtual.
-![Virtual Machine inside Other Virtual Machine](Imagenes\vm12.PNG) 
+
+![Virtual Machine inside Other Virtual Machine](Imagenes/vm12.PNG) 
 
 -----------------------------------------------------------------------------------------------------------
