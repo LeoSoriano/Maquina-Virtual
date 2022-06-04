@@ -74,6 +74,7 @@ Es un servicio para poder controlar muchas maquinas Virtuales.
 17.- Una ves creada esa Maquina Virtual, procedemos a crear una **segunda Maquina Virtual** con los mismos pasos **(checar que este en el mismo grupo de recursos que primera maquina virtual)**.
 
 18.- Una ves creada la segunda Maquina Virtual, iremos a nuestro **grupo de recursos**.
+
 ![Group Resource](Imagenes/GroupResource.PNG)
 
 19.- Ahora le daremos "click" a una Maquina Virtual.
