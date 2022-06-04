@@ -57,6 +57,7 @@ Es un servicio para poder controlar muchas maquinas Virtuales.
 10.- Agregamos un Nombre de Usuario
 
 11.- Agregamos una contraseña y la confirmamos.
+
 ![Datos](Imagenes\data.PNG)
 
 12.- En este caso, seleccionaremos el puerto **RDP** **(remote deskop Protocol)**
