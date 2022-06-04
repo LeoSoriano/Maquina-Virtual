@@ -1,4 +1,4 @@
-#PRACTICA DE MAQUINAS VIRTUALES
+PRACTICA DE MAQUINAS VIRTUALES
 -------------------------------------
 
 El programa que usaremos para crear la maquina virtual es **Azure Virtual Machines**
@@ -14,7 +14,7 @@ Este programa lo que hace, es virtualizar el hardware de la computadora. Es deci
 - **Uso:** Para extender el centro de datos
 - **Uso:** Para pruebas y desarrollo de aplicaciones
 
-####AZURE VIRTUAL MACHINES SCALE SETS
+AZURE VIRTUAL MACHINES SCALE SETS
 
 Es un servicio para poder controlar muchas maquinas Virtuales.
 
