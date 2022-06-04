@@ -38,6 +38,7 @@ Es un servicio para poder controlar muchas maquinas Virtuales.
 
 3.- Cuando cargue, le daremos en crear y en Maquina Virtual.
  **Para crearla se necesita: Suscripcion, grupo de recursos, nombre y region.**
+
  ![Virtual Machine](Imagenes/VirtualMachine.PNG)
  
 4.- Creamos un nuevo grupo de recursos (le ponemos el nombre que queramos).
@@ -62,6 +63,7 @@ Es un servicio para poder controlar muchas maquinas Virtuales.
 
 12.- En este caso, seleccionaremos el puerto **RDP** **(remote deskop Protocol)**
 13.- Confirmamos el uso de la Maquina Virtual
+
 ![RDP](Imagenes/data2.PNG)
 
 14.- Nos vamos al apartado de Redes, lo dejamos tal cual esta.
