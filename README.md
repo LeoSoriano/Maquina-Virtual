@@ -18,7 +18,7 @@ Este programa lo que hace, es virtualizar el hardware de la computadora. Es deci
 
 Es un servicio para poder controlar muchas maquinas Virtuales.
 
-![Logo de Azure Virtual MachineS Scale Sets](Imagenes\ScaleSets.png)
+![Logo de Azure Virtual MachineS Scale Sets](Imagenes/ScaleSets.png)
 
 - **Modelo de servicio:** IaaS
 - **Funcion:** Controlar facilmente muchas maquinas virtuales
