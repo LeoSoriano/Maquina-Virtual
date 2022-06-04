@@ -58,7 +58,7 @@ Es un servicio para poder controlar muchas maquinas Virtuales.
 
 11.- Agregamos una contraseña y la confirmamos.
 
-![Datos](Imagenes\data.PNG)
+![Datos](Imagenes/data.PNG)
 
 12.- En este caso, seleccionaremos el puerto **RDP** **(remote deskop Protocol)**
 13.- Confirmamos el uso de la Maquina Virtual
@@ -66,9 +66,12 @@ Es un servicio para poder controlar muchas maquinas Virtuales.
 
 14.- Nos vamos al apartado de Redes, lo dejamos tal cual esta.
 15.- A continuacion le damos en revisar y crear. Le damos en crear.
+
+
 ![Revisar y Crear](Imagenes/Crearla.PNG)
 
 16.- Esperamos a que la implementacion termine.
+
 ![Implementacion](Imagenes/implementacion.PNG)
 
 17.- Una ves creada esa Maquina Virtual, procedemos a crear una **segunda Maquina Virtual** con los mismos pasos **(checar que este en el mismo grupo de recursos que primera maquina virtual)**.
@@ -84,9 +87,16 @@ Es un servicio para poder controlar muchas maquinas Virtuales.
 
 21.- Esperamos tantito y descargamos ese archivo.
 22.- En Windows, para usar el archivo **RDP**, debemos descargar la aplicacion **Remote Desktop** del storage de Windows y lo instalaremos (esto nos va a permitir conectarnos a las maquinas virtuales).
-![Remote Desktop](Imagenes\remote.PNG)
+
+
+![Remote Desktop](Imagenes/remote.PNG)
+
+
 23.-Una ves que se descargue la aplicacion abriremos el archivo. Cuando abra nos pedira el Usuario y la contraseña que habiamos anotado anteriormente y se abrira la maquina virtual.
-![RDP](Imagenes\username.PNG)
+
+![RDP](Imagenes/username.PNG)
+
+
 24.-Ahora para conectar la otra maquina virtual debemos abrir el CMD y escribir **ping y el ping de la maquina virtual** que queremos conectar.
 ![CMD](Imagenes\CMD.PNG)
 26.- En caso de que no conecte por el CMD, deberemos abrir el **Windows Powershell**
