@@ -3,7 +3,7 @@
 
 El programa que usaremos para crear la maquina virtual es **Azure Virtual Machines**
 
-![Logo de Azure Virtual Machine](Imagenes\AzureVirtualMachine.png)
+![Logo de Azure Virtual Machine](Imagenes/AzureVirtualMachine.png)
 
 Este programa lo que hace, es virtualizar el hardware de la computadora. Es decir mete una computadore dentro de otra computadora.
 
