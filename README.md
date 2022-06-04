@@ -32,7 +32,8 @@ Es un servicio para poder controlar muchas maquinas Virtuales.
 ####Pasos para crear una Maquina Virtual
 
 1.-Ingresamos al [Portal de Azure](https://portal.azure.com)
-![Azure](Imagenes\PortalAzure.PNG)
+![Azure](Imagenes/PortalAzure.PNG)
+
 2.- Buscamos Virtual Machine en el buscador.
 3.- Cuando cargue, le daremos en crear y en Maquina Virtual.
  **Para crearla se necesita: Suscripcion, grupo de recursos, nombre y region.**
