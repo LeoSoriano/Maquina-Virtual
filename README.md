@@ -38,9 +38,9 @@ Es un servicio para poder controlar muchas maquinas Virtuales.
 3.- Cuando cargue, le daremos en crear y en Maquina Virtual.
  **Para crearla se necesita: Suscripcion, grupo de recursos, nombre y region.**
 
- ![Virtual Machine](Imagenes\VirtualMachine.PNG)
+ ![Virtual Machine](Imagenes/VirtualMachine.PNG)
 4.- Creamos un nuevo grupo de recursos (le ponemos el nombre que queramos).
-![Crear la Maquina](Imagenes\create.PNG)
+![Crear la Maquina](Imagenes/create.PNG) 
 5.- Le agregamos el nombre que queremos para nuestra Maquina Virtual.
 6.- Seleccionamos una region que este accesible y que tenga disponibilidad, de preferencia en zona 1.
 7.- Todo lo demas lo dejamos tal cual esta.
@@ -54,7 +54,7 @@ Es un servicio para poder controlar muchas maquinas Virtuales.
 ![RDP](Imagenes\data2.PNG)
 14.- Nos vamos al apartado de Redes, lo dejamos tal cual esta.
 15.- A continuacion le damos en revisar y crear. Le damos en crear.
-![Revisar y Crear](Imagenes\Crearla.PNG)
+![Revisar y Crear](Imagenes/Crearla.PNG)
 16.- Esperamos a que la implementacion termine.
 ![Implementacion](Imagenes\implementacion.PNG)
 17.- Una ves creada esa Maquina Virtual, procedemos a crear una **segunda Maquina Virtual** con los mismos pasos **(checar que este en el mismo grupo de recursos que primera maquina virtual)**.
